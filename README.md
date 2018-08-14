@@ -4,6 +4,8 @@ Este documento está en GITHUB! y si lo podes ver en tu computadora ya tenes tod
 
 ## Actividades
 
+* Crea tu usuario en GitHub
+* Envianos tu nombre de usuario por Slack (https://webmaster2018.slack.com)
 * Clonar este repositorio en tu computadora (https://github.com/cursos-utn/webmaster01.git)
 * Modificar este archivo, agregando tu nombre en la sección *Alumnos*
 * Hacer un commit de los cambios que realizaste
