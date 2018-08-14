@@ -4,7 +4,7 @@ Este documento está en GITHUB! y si lo podes ver en tu computadora ya tenes tod
 
 ## Actividades
 
-* Clonar este repositorio en tu computadora (Listo)
+* Clonar este repositorio en tu computadora
 * Modificar este archivo, agregando tu nombre en la sección *Alumnos*
 * Hacer un commit de los cambios que realizaste
 * Subir los cambios al servidor de GitHub
