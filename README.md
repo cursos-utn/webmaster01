@@ -4,7 +4,7 @@ Este documento está en GITHUB! y si lo podes ver en tu computadora ya tenes tod
 
 ## Actividades
 
-* Clonar este repositorio en tu computadora
+* Clonar este repositorio en tu computadora (https://github.com/cursos-utn/webmaster01.git)
 * Modificar este archivo, agregando tu nombre en la sección *Alumnos*
 * Hacer un commit de los cambios que realizaste
 * Subir los cambios al servidor de GitHub
@@ -12,8 +12,6 @@ Este documento está en GITHUB! y si lo podes ver en tu computadora ya tenes tod
 
 ## Alumnos
 
-*Acá debes ingresar tu nombre*
-
 * Lorena
 * Orlando
-* ...
+*Acá debes ingresar tu nombre*
