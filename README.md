@@ -17,5 +17,5 @@ Este documento está en GITHUB! y si lo podes ver en tu computadora ya tenes tod
 
 * Lorena
 * Orlando
-*
+* Ariel
 *Acá debes ingresar tu nombre*
