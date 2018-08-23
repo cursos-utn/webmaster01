@@ -16,7 +16,7 @@ Este documento está en GITHUB! y si lo podes ver en tu computadora ya tenes tod
 ## Alumnos
 
 * Lorena
-* Orlando
 * 
-*Acá debes ingresar tu nombre*
+*Acá debes ingresar tu nombre --
 * Martin
+* Orlando 2
