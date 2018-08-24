@@ -20,5 +20,5 @@ Este documento está en GITHUB! y si lo podes ver en tu computadora ya tenes tod
 * Dario!
 * Gabriel
 * Martin
-* Martink
+* Mk
 * No modificar la master! :D
