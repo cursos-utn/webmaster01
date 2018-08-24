@@ -17,11 +17,7 @@ Este documento está en GITHUB! y si lo podes ver en tu computadora ya tenes tod
 
 * Lorena
 * Orlando
-* 
-*Acá debes ingresar tu nombre*
-<<<<<<< HEAD
-*Gabriel
-=======
+* Gabriel
 * Martin
-* Hey
->>>>>>> 01898a206949e10a64895588b9b2b93d2126072c
+* No modificar la master! :D
+
