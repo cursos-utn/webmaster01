@@ -18,4 +18,6 @@ Este documento está en GITHUB! y si lo podes ver en tu computadora ya tenes tod
 * Lorena
 * Orlando
 * Dario!
-*Acá debes ingresar tu nombre*
+* Gabriel
+* Martin
+* No modificar la master! :D
